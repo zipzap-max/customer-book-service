@@ -1,0 +1,64 @@
+{
+    "books":[
+        {
+            "id":"9781593279509",
+            "title":"Eloquent JavaScript, Third Edition",
+            "author":"Marijn Haverbeke",
+            "genre":"Coding",
+            "available":true
+        },
+        {
+            "id":"9781491943533",
+            "title":"Practical Modern JavaScript",
+            "author":"Nicolás Bevacqua",
+            "genre":"Coding",
+            "available":true
+
+        },
+        {
+            "id":"9781593277574",
+            "title":"Understanding ECMAScript 6",
+            "author":"Nicholas C. Zakas",
+            "genre":"Coding",
+            "available":true
+        },
+        {
+            "id":"9781449365035",
+            "title":"Speaking JavaScript",
+            "author":"Axel Rauschmayer",
+            "genre":"Coding",
+            "available":true
+
+        },
+        {
+            "id":"9781449331818",
+            "title":"Learning JavaScript Design Patterns",
+            "author":"Addy Osmani",
+            "genre":"Coding",
+            "available":true
+        },
+        {
+            "id":"9798602477429",
+            "title":"You Don't Know JS Yet",
+            "author":"Kyle Simpson",
+            "genre":"Coding",
+            "available":true
+
+        },
+        {
+            "id":"9781484200766",
+            "title":"Pro Git",
+            "author":"Scott Chacon and Ben Straub",
+            "genre":"Coding",
+            "available":true
+        },
+        {
+            "id":"9781484242216",
+            "title":"Rethinking Productivity in Software Engineering",
+            "author":"Caitlin Sadowski, Thomas Zimmermann",
+            "genre":"Coding",
+            "available":true
+
+        }
+    ]
+}

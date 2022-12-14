@@ -1,0 +1,21 @@
+#
+#mysql looks like ID, title, Author, genre, status
+#lets make status to available
+
+
+def getBookByTitle(title):
+    return title, author, genre, available
+
+def getBookByAuthor(author):
+    return title, author, genre, available
+
+def getBookByGenre(genre):
+    return title, author, genre, available
+
+def takeOutBook(title, author):
+    available = false
+    return id, title, author, genre, 
+
+def returnBook(id):
+    available = true
+    return success 
